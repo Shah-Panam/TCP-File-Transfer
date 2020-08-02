@@ -1,7 +1,7 @@
 import socket
 import os
 import tqdm
-#asdsa
+
 BUFFER_SIZE = 4096
 SEPARATOR = "<SEPARATOR>"
 
