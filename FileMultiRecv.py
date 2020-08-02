@@ -1,7 +1,7 @@
 import socket
 import os
 import tqdm
-
+# RPS is pagal.
 BUFFER_SIZE = 4096
 SEPARATOR = "<SEPARATOR>"
 
